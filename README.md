@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Artur and I am a fullstack software developer.
-I have a bachelor's degree in Mechanical Engineering and 5 years of experience in Technology Education.
-- :man_technologist: Full time software developer
-- :teacher: Part time tech educator
+My name is Artur and I am a fullstack software developer. <br>
+I have a bachelor's degree in Mechanical Engineering, coding since 2011, and working with technology since 2016.
+- :man_technologist: Full-time software developer
+- :teacher: ~Part-time tech educator~
 - :mechanic: On free time maker enthusiast
 
 
